@@ -2,7 +2,7 @@
 ![image](https://github.com/Nathan-Xi/NX_146_SPI_MKB-MIKROBUS-Graphics-Expansion/blob/main/i3c_display_demo_cg.png)
 **Thank you for noticing this project.**:blush:
 
-This is an graphics expansion board designed for all MIKROBUS™ supported development boards! (but you can still use it for other general-purpose applications as it's just a 4-spi screen adapter board)
+This is a graphics expansion board designed for all MIKROBUS™ supported development boards! (but you can still use it for other general-purpose applications as it's just a 4-SPI screen adapter board)
 
 In **this** example SDK, I used an NXP FRDM-MCXA156 for demonstration.
 
