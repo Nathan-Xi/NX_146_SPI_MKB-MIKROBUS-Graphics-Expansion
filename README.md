@@ -33,8 +33,8 @@ This demo is specific to the FRDM-MCXA156 development board.🔒
 
 It uses the on-board MEMS temperature sensor (p3t1755) and reads it using the I3C bus.
 
-## How to use the Demos
+## How to use the demos
 
-The two demos are essential as it include the driver which the contributer had written (as this display acquires no existing driver).
+The two demos are essential as they include the driver which the contributer had written (as this display acquires no existing driver).
 
 If you want to port the driver to a new platform, please refer to Demo 1 as it included all you need for your custom project.
